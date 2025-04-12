@@ -6,7 +6,7 @@ These are meant to be alta items ported from [My Enternia](https://steamcommunit
 
 ## Sprites
 
-### ![Ceterai's](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/unsorted/alta/loot/sets/ct_alta_security_set.png) [Alta Security Set](https://github.com/Ceterai/Enternia/wiki/Security-Set)
+### ![Ceterai's](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security.png) [Alta Security Set](https://github.com/Ceterai/Enternia/wiki/Security-Set)
 
 Parts:
 
